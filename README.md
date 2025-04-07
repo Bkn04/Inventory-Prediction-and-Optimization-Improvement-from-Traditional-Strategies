@@ -116,17 +116,3 @@ Common in small or traditional enterprises lacking digital tools or automation.
 | Supply   | Fixed lead times         | Geopolitical risks, capacity fluctuation | Production disruption, urgent replenishment costs |
 | Decision-Making | Manual, experience-based | Explosive SKU growth, data overload | Inefficiency, delayed responses |
 | Cost     | Only visible costs considered | Customer churn & hidden opportunity costs | Profit loss due to hidden cost exposure |
-
-## Project Innovation: A Data-Driven Framework for Dynamic Inventory Optimization
-
-1. **Breakthrough from Static Assumptions:**  
-   Leverage time series analysis (SARIMA) to capture demand trends and seasonality.
-
-2. **Quantification of Uncertainty:**  
-   Use Monte Carlo simulations to model supply delays and demand volatility.
-
-3. **Dynamic Strategy Generation:**  
-   Integrate operations research (e.g., dynamic (s, S) policies) with statistical confidence interval estimation.
-
-4. **Cost-Service Tradeoff:**  
-   Apply multi-objective optimization to find the most balanced solution using the Pareto frontier.
